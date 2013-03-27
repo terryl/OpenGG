@@ -1,29 +1,29 @@
-# OpenGG µÄ²©¿Í
+# OpenGG çš„åšå®¢
 
-## ÎªÊ²Ã´Òª°Ñ²©¿Í¿ªµ½ GitHub ÉÏ
+## ä¸ºä»€ä¹ˆè¦æŠŠåšå®¢å¼€åˆ° GitHub ä¸Š
 
-²©¿Í¿ªÁËºÃ¼¸ÄêÁË, Ò»Ö±ÓÉºâÌìÖ÷»úÍÐ¹Ü, Ò»Ö±ÊÇ 10G Ó²ÅÌ, Ò»Ö±ÊÇ 15G/ÔÂ Á÷Á¿, Ò»Ö±Ã»³öÊ²Ã´´óÎÊÌâ.
+åšå®¢å¼€äº†å¥½å‡ å¹´äº†, ä¸€ç›´ç”±è¡¡å¤©ä¸»æœºæ‰˜ç®¡, ä¸€ç›´æ˜¯ 10G ç¡¬ç›˜, ä¸€ç›´æ˜¯ 15G/æœˆ æµé‡, ä¸€ç›´æ²¡å‡ºä»€ä¹ˆå¤§é—®é¢˜.
 
-Ö±µ½ 2013 Äê, Ä³Ð©Ð¡ÈËÔÚ³¤ÆÚØâÇÔÎÒµÄ×÷Æ·Ö®ºó, ÓÖ´¹ÏÑ¸ü´óµÄÀûÒæ, ÒÀ¿¿±°ÁÓµÄÊÖ¶Î, ÓÃ DDOS ¹¥»÷ player.opengg.me ÖÂÆäÏÂÏß; ÉõÖÁÔÚÎÒÐû²¼Í£Ö¹ OpenGG.Clean.Player ÏîÄ¿Ö®ºó, ¼ÌÐø¹¥»÷ÎÒµÄ²©¿Í·þÎñÆ÷, µ¼ÖÂ opengg.me ÏÂÏß.
+ç›´åˆ° 2013 å¹´, æŸäº›å°äººåœ¨é•¿æœŸå‰½çªƒæˆ‘çš„ä½œå“ä¹‹åŽ, åˆåž‚æ¶Žæ›´å¤§çš„åˆ©ç›Š, ä¾é å‘åŠ£çš„æ‰‹æ®µ, ç”¨ DDOS æ”»å‡» player.opengg.me è‡´å…¶ä¸‹çº¿; ç”šè‡³åœ¨æˆ‘å®£å¸ƒåœæ­¢ OpenGG.Clean.Player é¡¹ç›®ä¹‹åŽ, ç»§ç»­æ”»å‡»æˆ‘çš„åšå®¢æœåŠ¡å™¨, å¯¼è‡´ opengg.me ä¸‹çº¿.
 
-ËùÒÔÎÒ²»µÃ²»°ÑÎÒµÄËùÓÐÎÄÕÂ, ÔÚ GitHub ×öÒ»¸ö±¸·Ý.
+æ‰€ä»¥æˆ‘ä¸å¾—ä¸æŠŠæˆ‘çš„æ‰€æœ‰æ–‡ç« , åœ¨ GitHub åšä¸€ä¸ªå¤‡ä»½.
 
-## ÈçºÎÊ¹ÓÃ±¾²©¿Í
+## å¦‚ä½•ä½¿ç”¨æœ¬åšå®¢
 
-Õâ¸ö repo ÀïÖ»·ÅÁ½¸ö¿ÉÒÔ fork µÄÒ³Ãæ:
+è¿™ä¸ª repo é‡Œåªæ”¾ä¸¤ä¸ªå¯ä»¥ fork çš„é¡µé¢:
 
-0. Õâ·ÝËµÃ÷
-0. ÈËÔüµÄÃûµ¥ [<³ÜÈèÖù>][hallOfShame]
+0. è¿™ä»½è¯´æ˜Ž
+0. äººæ¸£çš„åå• [<è€»è¾±æŸ±>][hallOfShame]
 
-ÆäËûÎÄÕÂ¶¼ÔÚ issue Àï, Í¬Ê±¸½»áÓÐÁ´½Óµ½²©¿ÍÖ÷Õ¾µÄÁ´½Ó. ËùÒÔÇë²»ÒªÌá½» issue.
+å…¶ä»–æ–‡ç« éƒ½åœ¨ issue é‡Œ, åŒæ—¶é™„ä¼šæœ‰é“¾æŽ¥åˆ°åšå®¢ä¸»ç«™çš„é“¾æŽ¥. æ‰€ä»¥è¯·ä¸è¦æäº¤ issue.
 
-## ÈçºÎ°ïÖúÎÒ
+## å¦‚ä½•å¸®åŠ©æˆ‘
 
-Èç¹ûÄãÏ²»¶ÎÒµÄ²©¿Í, Èç¹ûÄãÐÄÀïÒ²¸úÎÒÒ»Ñù·ßÅ­, ÇëÍ¨¹ýÒÔÏÂ¼¸ÖÖ·½Ê½°ïÖúÎÒ:
+å¦‚æžœä½ å–œæ¬¢æˆ‘çš„åšå®¢, å¦‚æžœä½ å¿ƒé‡Œä¹Ÿè·Ÿæˆ‘ä¸€æ ·æ„¤æ€’, è¯·é€šè¿‡ä»¥ä¸‹å‡ ç§æ–¹å¼å¸®åŠ©æˆ‘:
 
-0. µã»÷±¾Ò³ÓÒÉÏ½ÇµÄ `Fork` °´Å¥, Õâ¸öÏîÄ¿Ã¿±» Fork Ò»´Î, GitHub ¾Í»áÉú³ÉÒ»¸ö¾µÏñÒ³Ãæ, ÕâÑù¾ÍÓÐ¸ü¶àÈËÄÜ¿´µ½Õâ¸ö²©¿Í.
-0. ÎªÎÒÌá¹©¿É·ÀÓù DDOS µÄ·þÎñÆ÷.
-0. [¾èÖúÎÒ][donation]
+0. ç‚¹å‡»æœ¬é¡µå³ä¸Šè§’çš„ `Fork` æŒ‰é’®, è¿™ä¸ªé¡¹ç›®æ¯è¢« Fork ä¸€æ¬¡, GitHub å°±ä¼šç”Ÿæˆä¸€ä¸ªé•œåƒé¡µé¢, è¿™æ ·å°±æœ‰æ›´å¤šäººèƒ½çœ‹åˆ°è¿™ä¸ªåšå®¢.
+0. ä¸ºæˆ‘æä¾›å¯é˜²å¾¡ DDOS çš„æœåŠ¡å™¨.
+0. [æåŠ©æˆ‘][donation]
 
 [donation]: https://github.com/OpenGG/OpenGG/issues/3
 [hallOfShame]: https://github.com/OpenGG/OpenGG/blob/master/Hall-of-shame.md
